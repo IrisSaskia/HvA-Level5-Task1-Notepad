@@ -1,4 +1,4 @@
-package com.example.notepadkotlin.model.edit
+package com.example.notepadkotlin.ui.edit
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
