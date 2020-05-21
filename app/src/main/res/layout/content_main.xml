@@ -30,6 +30,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
+            android:text="@string/last_updated"
             android:fontFamily="sans-serif"
             android:textColor="@android:color/darker_gray"
             android:textStyle="italic"

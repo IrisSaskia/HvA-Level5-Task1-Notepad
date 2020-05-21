@@ -11,7 +11,7 @@ import java.util.*
 @Entity(tableName = "noteTable")
 data class Note (
     @ColumnInfo(name = "noteTitle")
-    var noteTitle: String,
+    var title: String,
 
     @ColumnInfo(name = "noteDate")
     var lastUpdated: Date,
